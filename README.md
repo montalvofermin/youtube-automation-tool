@@ -1,6 +1,3 @@
-# youtube-automation-tool
-Automatización de contenido para YouTube Shorts mediante Python y API Data v3. Proyecto desarrollado como desafío personal para optimizar flujos de trabajo y aprender integración de sistemas.
-
 # YouTube Automation: Data Mundial
 Este proyecto nació como un **desafío personal** para explorar la automatización de procesos creativos y la gestión de APIs de Google.
 
